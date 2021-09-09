@@ -1,7 +1,7 @@
 # Hi! I'm Josh! 👋 
 _But everyone calls me JB_
 
-I'm an aspiring Data Analyst/Data Scientist! 🔎
+I'm an aspiring QA Engineer! 🔎
 
 I also enjoy writing Python programs 👨‍💻 
 
