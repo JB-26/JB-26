@@ -7,7 +7,7 @@ I enjoy writing Python and .NET programs 👨‍💻
 I'm currently working on a small project, which is a CLI application that connects to a Postgres database and can perform data analysis.
 
 # What I'm currently learning...
-I'm currently learning Python and SQL!
+I'm currently learning Swift! 🦅
 
 Want to see my resume and work? Check out my [website](https://joshblewitt.dev/), which also has a way to contact me
 
