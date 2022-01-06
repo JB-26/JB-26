@@ -1,13 +1,13 @@
 # Hi! I'm Josh! 👋 
 _But everyone calls me JB_
 
-I enjoy writing Python and .NET programs 👨‍💻 
+I enjoy writing Python and Ruby programs 👨‍💻 
 
 # What I'm working on...
 I'm currently working on a small project, which is a CLI application that connects to a Postgres database and can perform data analysis.
 
 # What I'm currently learning...
-I'm currently more about Python  
+I'm currently more about Python and Ruby!
 
 Want to see my resume and work? Check out my [website](https://joshblewitt.dev/), which also has a way to contact me
 
