@@ -1,7 +1,7 @@
 # Hi! I'm Josh! 👋 
 _But everyone calls me JB_
 
-I enjoy writing Python and Ruby programs 👨‍💻 
+I enjoy writing Python programs 👨‍💻 
 
 # What I'm working on...
 I'm currently working on a small project, which is a CLI application that connects to a Postgres database and can perform data analysis.
