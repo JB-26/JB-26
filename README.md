@@ -7,7 +7,7 @@ I enjoy writing Python programs 👨‍💻
 I'm currently working on a small project, which is a CLI application that connects to a Postgres database and can perform data analysis.
 
 # What I'm currently learning...
-I'm currently more about Python and Ruby!
+I'm currently learning more about Python! Specifically, Data Science and Data Analysis.
 
 Want to see my resume and work? Check out my [website](https://joshblewitt.dev/), which also has a way to contact me
 
