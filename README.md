@@ -7,9 +7,7 @@ I enjoy writing Python programs 👨‍💻
 I'm currently taking a course on web development and brushing up on my JS knowledge! 📖
 
 # What I'm currently learning...
-I'm currently learning more about Python! Specifically, Data Science and Data Analysis.
-
-I'm also learning more about JS!
+I'm currently learning more about JS! And the various runtime environments such as Node. 
 
 Want to see my resume and work? Check out my [website](https://joshblewitt.dev/), which also has a way to contact me
 
