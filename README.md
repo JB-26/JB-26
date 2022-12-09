@@ -4,10 +4,10 @@ _But everyone calls me JB_
 I enjoy writing Python programs 👨‍💻 
 
 # What I'm working on...
-I'm currently taking a course on web development and brushing up on my JS knowledge! 📖
+I'm currently improving my Data Analysis/Data Science skills
 
 # What I'm currently learning...
-I'm currently learning more about JS! And the various runtime environments such as Node. 
+I'm currently learning a bit about PyTorch 🔥
 
 Want to see my resume and work? Check out my [website](https://joshblewitt.dev/), which also has a way to contact me
 
