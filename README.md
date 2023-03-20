@@ -7,7 +7,7 @@ I enjoy writing Python programs 👨‍💻
 I'm currently improving my Data Analysis/Data Science skills
 
 # What I'm currently learning...
-I'm currently learning a bit about the JavaScript framework, Svelte!
+I'm currently learning a bit about JavaScript frameworks!
 
 Want to see my resume and work? Check out my [website](https://joshblewitt.dev/), which also has a way to contact me
 
