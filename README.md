@@ -1,13 +1,11 @@
 # Hi! I'm Josh! 👋 
 _But everyone calls me JB_
 
-I enjoy writing Python programs 👨‍💻 
-
 # What I'm working on...
-I'm currently improving my Data Analysis/Data Science skills
+I'm currently improving my website
 
 # What I'm currently learning...
-I'm currently learning more about analysis techniques
+I'm currently learning more about Business Analysis
 
 Want to see my resume and work? Check out my [website](https://joshblewitt.dev/), which also has a way to contact me
 
