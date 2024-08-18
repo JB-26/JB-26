@@ -2,10 +2,10 @@
 _But everyone calls me JB_
 
 # What I'm working on...
-I'm currently improving my website
+I'm currently taking a JavaScript course on freeCodeCamp.
 
 # What I'm currently learning...
-I'm currently learning more about Business Analysis
+I'm currently learning about JavaScript.
 
 Want to see my resume and work? Check out my [website](https://joshblewitt.dev/), which also has a way to contact me
 
