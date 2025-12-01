@@ -5,7 +5,7 @@ _But everyone calls me JB_
 I'm currently taking a JavaScript course on freeCodeCamp.
 
 # What I'm currently learning...
-I'm currently learning about JavaScript.
+I'm currently building some fun hobby projects, such as the Video Game API and Haiku Checker
 
 Want to see my resume and work? Check out my [website](https://joshblewitt.dev/), which also has a way to contact me
 
